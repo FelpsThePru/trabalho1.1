@@ -2,4 +2,6 @@
 #par ou ímpar
 #positivo ou negativo
 #inteiro ou decimal
+
+## alteração
 num1 = float()
