@@ -41,3 +41,4 @@ if resultado < 0:
     print('O número é Negativo.')
 else:
     print('O número é Positivo.')
+
